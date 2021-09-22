@@ -14,10 +14,8 @@
   <img align="center" alt="Bruno-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div> <br>
-  
+</div>
   :point_up: linguagens que estou aprendendo no momento :point_up:
-
 <div style="display: inline_block"><br> 
   <a href="https://www.instagram.com/bruno.sem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
